@@ -1,6 +1,6 @@
 ### Hello, I'm Matheus Silva Freitas! 👋
 
-Front-End Developer 
+I'm Front-End Developer, working mainly with ReactJS with TypeScript
 
 Bachelor in Civil Engineering
 
