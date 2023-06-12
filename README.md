@@ -20,7 +20,6 @@ Bachelor in Civil Engineering
 
 ---
 <div align='center'>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=msilvafreitas&layout=compact&theme=chartreuse-dark&show_icons=true"/>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msilvafreitas&layout=compact&theme=chartreuse-dark"/>
 </div>
 
