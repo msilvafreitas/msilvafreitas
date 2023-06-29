@@ -13,6 +13,7 @@ Bachelor in Civil Engineering
   <img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue shield"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript shield">
    <img src="https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript shield">
+  <img src="https://img.shields.io/badge/Node.js-65b04c?style=for-the-badge&logo=node.js&logoColor=white" alt="Node shield">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind shield"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap shield"/>
 </div>
