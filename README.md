@@ -28,6 +28,7 @@ Bachelor in Civil Engineering
 
 ### Contact:
 <div align='center'>
+  <a href="https://msilvafreitas.dev.br/" target="_blank"><img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=nuxt.js&logoColor=00DC87" alt="Website Shield"></a>
   <a href="https://www.linkedin.com/in/msilvafreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Shield"></a>
   <a href="mailto:freitas1matheus+github@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Shield"></a>
 </div>
